@@ -1,5 +1,4 @@
-"use strict";
-var Punycode = {};
+export const Punycode = {};
 (function() {
 
 var div = function(a,b) {
